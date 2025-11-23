@@ -1,33 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Movie website</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+
 <body style="background-color: black; color: white;">
     <h1 style="text-align: center;">Welcome to Movie world <i class="fa-solid fa-video"></i></h1><br>
-   <div style="text-align: center; background-color: orange; padding: 15px; margin-left: 400px; margin-right: 400px;">
-    <a href="">Home</a> |
-    <a href="" style="color: blue;"> Actors</a> |
-    <a href="" style="color: blue;">Directors</a> |
-    <a href="" style="color: blue;">Music Directors</a> |
-    <a href="" style="color: blue;">Singers</a> |
-    <a href="">Awards</a>
-    </div> 
+    <div style="text-align: center; background-color: orange; padding: 15px; margin-left: 400px; margin-right: 400px;">
+        <a href="">Home</a> |
+        <a href="" style="color: blue;"> Actors</a> |
+        <a href="" style="color: blue;">Directors</a> |
+        <a href="" style="color: blue;">Music Directors</a> |
+        <a href="" style="color: blue;">Singers</a> |
+        <a href="">Awards</a>
+    </div>
     <br>
-    
+
     <marquee behavior="scroll" direction="left" scrollamount="15">
         <img src="https://m.media-amazon.com/images/I/81T4v8GOhBL._SL1487_.jpg" alt="Bahubali" width="220" height="250">
-        <img src="devara.png" alt="Devara" width="220" height="250" >
+        <img src="devara.png" alt="Devara" width="220" height="250">
         <img src="pushpa.png" alt="Pushpa" width="220" height="250">
         <img src="rrr.png" alt="RRR" width="220" height="250">
         <img src="salar.png" alt="Salar" width="220" height="250">
     </marquee><br>
     <div>
-        <p>Baahubali is an Indian epic action film directed by S. S. Rajamouli, released in two parts: Baahubali: The Beginning (2015) and Baahubali: The Conclusion (2017). The movie tells the story of Amarundra Baahubali and his son Mahendra Prabhas, Rana Daggubati, Anushka Shetty, and Tamannaah were widely acclaimed. With record-breaking box office collections, Baahubali became a global phenomenon and redefined Indian cinema with world-class filmmaking. Baahubali is an Indian epic action film directed by S. S. Rajamouli, released in two parts: Baahubali: The Beginning (2015) and Baahubali: The Conchmion (2017). The movie tells the story of Amarendes Baahubali and his son Mahendra Baahubali, set in the fictional kingdom of Mahishmati. The film is praised for its grand visuals, powerful storytelling, and breathtaking battle sequences. It showcases themes of bravery, sacrifice, betrayal, and justice. The performances of Prabhas, Rana Daggubati, Anushka Shetty, and Tamannaah were widely acclaimed. With record-breaking box office collections, Baahubali became a global phenomenon and redefined Indian cinema with world-class filmmaking. It showcases themes of bravery, sacrifice, betrayal, and justice. The performances of Prabhas, Rana Daggubati, Anushka Shetty, and Tamannaah were widely acclaimed. With record-breaking box office collethood-class became a global phenomenon and redefined Indian cinema with world-class filmmaking. Baahubali is an Indian epic action film</p>
-    </div><hr>
+        <p>Baahubali is an Indian epic action film directed by S. S. Rajamouli, released in two parts: Baahubali: The
+            Beginning (2015) and Baahubali: The Conclusion (2017). The movie tells the story of Amarundra Baahubali and
+            his son Mahendra Prabhas, Rana Daggubati, Anushka Shetty, and Tamannaah were widely acclaimed. With
+            record-breaking box office collections, Baahubali became a global phenomenon and redefined Indian cinema
+            with world-class filmmaking. Baahubali is an Indian epic action film directed by S. S. Rajamouli, released
+            in two parts: Baahubali: The Beginning (2015) and Baahubali: The Conchmion (2017). The movie tells the story
+            of Amarendes Baahubali and his son Mahendra Baahubali, set in the fictional kingdom of Mahishmati. The film
+            is praised for its grand visuals, powerful storytelling, and breathtaking battle sequences. It showcases
+            themes of bravery, sacrifice, betrayal, and justice. The performances of Prabhas, Rana Daggubati, Anushka
+            Shetty, and Tamannaah were widely acclaimed. With record-breaking box office collections, Baahubali became a
+            global phenomenon and redefined Indian cinema with world-class filmmaking. It showcases themes of bravery,
+            sacrifice, betrayal, and justice. The performances of Prabhas, Rana Daggubati, Anushka Shetty, and Tamannaah
+            were widely acclaimed. With record-breaking box office collethood-class became a global phenomenon and
+            redefined Indian cinema with world-class filmmaking. Baahubali is an Indian epic action film</p>
+    </div>
+    <hr>
 
     <h2>Lead actors male</h2>
     <ul>
@@ -50,112 +68,136 @@
         <li>Avanthika</li>
         <li>Shivagami</li>
         <li>Kattappa</li>
-    </ul><hr>
-    <div style="text-align: center;">
-    <h1>About Director</h1>
-    <img src="https://img.jagranjosh.com/images/2022/March/2832022/SS-Rajamouli-Biography-RRR-director.jpg" alt="Rajamouli" width="400" height="250">
-    <p>S. S. Rajamouli (born 10 October 1973) is one of India's most successful and visionary film directors. Known for his grand storytelling, innovative ideas, and spectacular visuals, he has redefined Indian cinema on a global scale Rajamouli gained fame through movies like Magadheera, Eega, Baahubali: The Beginning, Baahubali: The Conclusion, and the Oscar-winning RRR. His films are celebrated for their emotional depth, powerful characters, and technical brilliance. Rajamouli is admired for blending Indian culture with universal storytelling, making his movies appeal to audiences worldwide. Today, he is regarded as one of the greatest filmmakers in Indian cinema history</p>
+    </ul>
     <hr>
+    <div style="text-align: center;">
+        <h1>About Director</h1>
+        <img src="https://img.jagranjosh.com/images/2022/March/2832022/SS-Rajamouli-Biography-RRR-director.jpg"
+            alt="Rajamouli" width="400" height="250">
+        <p>S. S. Rajamouli (born 10 October 1973) is one of India's most successful and visionary film directors. Known
+            for his grand storytelling, innovative ideas, and spectacular visuals, he has redefined Indian cinema on a
+            global scale Rajamouli gained fame through movies like Magadheera, Eega, Baahubali: The Beginning,
+            Baahubali: The Conclusion, and the Oscar-winning RRR. His films are celebrated for their emotional depth,
+            powerful characters, and technical brilliance. Rajamouli is admired for blending Indian culture with
+            universal storytelling, making his movies appeal to audiences worldwide. Today, he is regarded as one of the
+            greatest filmmakers in Indian cinema history</p>
+        <hr>
     </div>
     <div style="text-align: center;">
-    <h1>About Music Director</h1>
-    <img src="https://images.hindustantimes.com/img/2023/01/11/1600x900/Naatu_Naatu_1673403053958_1673403054241_1673403054241.jpg" alt="M.M. Keeravani" width="400" height="250"><br><br>
-    <audio src="Pachcha Bottesi song.mp3" controls></audio>
-    <p>M. M. Keeravani (born July 4, 1961) is a highly acclaimed Indian music composer, singer, and lyricist, known for his work in Telugu, Hindi, and other South Indian films. He gained international fame for composing the song "Naatu Naatu" from the film RRR, for which he won an Oscar and a Golden Globe Award. With a career spanning over three decades, Keeravani is celebrated for his musical versatility and has earned numerous awards, including multiple National Film Awards, Nandi Awards, and Filmfare Awards</p>
-    <hr>
+        <h1>About Music Director</h1>
+        <img src="https://images.hindustantimes.com/img/2023/01/11/1600x900/Naatu_Naatu_1673403053958_1673403054241_1673403054241.jpg"
+            alt="M.M. Keeravani" width="400" height="250"><br><br>
+        <audio src="Pachcha Bottesi song.mp3" controls></audio>
+        <p>M. M. Keeravani (born July 4, 1961) is a highly acclaimed Indian music composer, singer, and lyricist, known
+            for his work in Telugu, Hindi, and other South Indian films. He gained international fame for composing the
+            song "Naatu Naatu" from the film RRR, for which he won an Oscar and a Golden Globe Award. With a career
+            spanning over three decades, Keeravani is celebrated for his musical versatility and has earned numerous
+            awards, including multiple National Film Awards, Nandi Awards, and Filmfare Awards</p>
+        <hr>
     </div>
     <div style="text-align: center;">
-    <h1>Songs and Singers</h1>
-    <table border="1" style=" border-collapse: collapse; text-align: center; margin-left: auto; margin-right: auto;" cellpadding="12">
-        <thead style="background-color: orange; color: white;">
-            <tr>
-            <th>Profile</th>
-            <th>Name</th>
-            <th>Song</th>
-            <th>Playlist</th>
-        </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="https://tse1.mm.bing.net/th/id/OIP.nlIyNQNLl2Aj5RWumbVypAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Geetha Madhuri"  width="120" height="120"></td>
-                <td>Geetha Madhuri</td>
-                <td>Jeevanadi</td>
-                <td><audio src="[iSongs.info] 02 - Jeevanadi.mp3" controls></audio></td>
-            </tr>
-            <tr>
-                <td><img src="https://i.pinimg.com/originals/cc/81/3d/cc813de89a631f7fbe0a35c1a5f83740.jpg" alt="Karthik" width="120" height="120"></td>
-                <td>Karthik</td>
-                <td>Pacchabottesina</td>
-                <td><audio src="[iSongs.info] 05 - Pachcha Bottesi.mp3" controls></audio></td>
-            </tr>
-            <tr>
-                <td><img src="https://tse2.mm.bing.net/th/id/OIP.KoytT-LxFEtXh10wUAjfGgAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Yamini"  width="120" height="120"></td>
-                <td>Yamini</td>
-                <td>Mamatalatalli</td>
-                <td><audio src="[iSongs.info] 01 - Mamathala Thalli.mp3" controls></audio></td>
-            </tr>
-            <tr>
-                <td><img src="https://www.cinejosh.com/newsimg/newsmainimg/lv-revanth-indian-idol-9-winner-at-the-show_b_0304170931.jpg" alt="Revanth"  width="120" height="120"></td>
-                <td>Revanth</td>
-                <td>Manohari</td>
-                <td><audio src="[iSongs.info] 06 - Manohari.mp3" controls></audio></td>
-            </tr>
-            <tr>
-                <td><img src="https://allwikibiography.in/wp-content/uploads/2022/06/Singer-Ramya-Behara-819x1024.jpg" alt="Ramya Behara"  width="120" height="120"></td>
-                <td>Ramya Behara</td>
-                <td>Dheevara</td>
-                <td><audio src="[iSongs.info] 03 - Dheevara.mp3" controls ></audio></td>
-            </tr>
-        </tbody>
-    </table>
-    </div><hr>
+        <h1>Songs and Singers</h1>
+        <table border="1" style=" border-collapse: collapse; text-align: center; margin-left: auto; margin-right: auto;"
+            cellpadding="12">
+            <thead style="background-color: orange; color: white;">
+                <tr>
+                    <th>Profile</th>
+                    <th>Name</th>
+                    <th>Song</th>
+                    <th>Playlist</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="https://tse1.mm.bing.net/th/id/OIP.nlIyNQNLl2Aj5RWumbVypAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+                            alt="Geetha Madhuri" width="120" height="120"></td>
+                    <td>Geetha Madhuri</td>
+                    <td>Jeevanadi</td>
+                    <td><audio src="[iSongs.info] 02 - Jeevanadi.mp3" controls></audio></td>
+                </tr>
+                <tr>
+                    <td><img src="https://i.pinimg.com/originals/cc/81/3d/cc813de89a631f7fbe0a35c1a5f83740.jpg"
+                            alt="Karthik" width="120" height="120"></td>
+                    <td>Karthik</td>
+                    <td>Pacchabottesina</td>
+                    <td><audio src="[iSongs.info] 05 - Pachcha Bottesi.mp3" controls></audio></td>
+                </tr>
+                <tr>
+                    <td><img src="https://tse2.mm.bing.net/th/id/OIP.KoytT-LxFEtXh10wUAjfGgAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+                            alt="Yamini" width="120" height="120"></td>
+                    <td>Yamini</td>
+                    <td>Mamatalatalli</td>
+                    <td><audio src="[iSongs.info] 01 - Mamathala Thalli.mp3" controls></audio></td>
+                </tr>
+                <tr>
+                    <td><img src="https://www.cinejosh.com/newsimg/newsmainimg/lv-revanth-indian-idol-9-winner-at-the-show_b_0304170931.jpg"
+                            alt="Revanth" width="120" height="120"></td>
+                    <td>Revanth</td>
+                    <td>Manohari</td>
+                    <td><audio src="[iSongs.info] 06 - Manohari.mp3" controls></audio></td>
+                </tr>
+                <tr>
+                    <td><img src="https://allwikibiography.in/wp-content/uploads/2022/06/Singer-Ramya-Behara-819x1024.jpg"
+                            alt="Ramya Behara" width="120" height="120"></td>
+                    <td>Ramya Behara</td>
+                    <td>Dheevara</td>
+                    <td><audio src="[iSongs.info] 03 - Dheevara.mp3" controls></audio></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr>
     <div style="text-align: center;">
         <h2>Guess the answer..!?</h2>
         <h1>Why Kattappa Killed Bahubali?</h1>
-        <img src="https://tse1.mm.bing.net/th/id/OIP.QtSYiAyyiU5TDLTiIFQGrAHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Kattappa killing bahubali" width="300" height="250"><br><br>
-        <div style="border: 1px solid red; padding: 15px; margin-left: 300px; margin-right: 300px;" >
+        <img src="https://tse1.mm.bing.net/th/id/OIP.QtSYiAyyiU5TDLTiIFQGrAHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+            alt="Kattappa killing bahubali" width="300" height="250"><br><br>
+        <div style="border: 1px solid red; padding: 15px; margin-left: 300px; margin-right: 300px;">
             <form action="">
-             <label for="name">Name:</label>
-             <input type="text" name="Name" id="name"><br><br>
-             <label for="mail">Email:</label>
-             <input type="email" name="Email" id="mail"><br><br>
-             <label for="num">Mobile:</label>
-              <input type="text" name="Mobile" id="num" disabled size="1px" value="+91">
-             <input type="tel" name="Mobile" id="num"><br><br>
-             <label for="gender">Gender:</label>
-             <input type="radio" name="Gender" id="gender">
-             <label for="gender">Male</label>
-             <input type="radio" name="Gender" id="gender">
-             <label for="gender">Female</label>
-              <input type="radio" name="Gender" id="gender">
-             <label for="gender">Others</label><br><br>
-             <label for="favchar">Fav Character:</label>
-             <input type="checkbox" name="Fav character" id="favchar">
-             <label for="favchar">Bahubali</label>
-              <input type="checkbox" name="Fav character" id="favchar">
-             <label for="favchar">BhallalaDeva</label>
-              <input type="checkbox" name="Fav character" id="favchar">
-             <label for="favchar">Shivagami</label>
-              <input type="checkbox" name="Fav character" id="favchar">
-             <label for="favchar">Devasena</label>
-              <input type="checkbox" name="Fav character" id="favchar">
-             <label for="favchar">Avanthika</label><br><br>
-             <label for="state">State</label>
-             <select name="state" id="st" >
-                <option value="Andhrapradesh">Andhrapradesh</option>
-                <option value="Telangana">Telangana</option>
-                <option value="Tamilnadu">Tamilnadu</option>
-                <option value="Kerala">Kerala</option>
-                <option value="Odissa">Odissa</option>
-             </select><br><br>
-             <label for="ans">Your answer:</label><br>
-             <textarea name="answer" id="ans" style="width: 200px; height: 80px;" ></textarea><br>
-             <input type="submit" name="submit" id="submit">
+                <label for="name">Name:</label>
+                <input type="text" name="Name" id="name"><br><br>
+                <label for="mail">Email:</label>
+                <input type="email" name="Email" id="mail"><br><br>
+                <label for="num">Mobile:</label>
+                <input type="text" name="Mobile" id="num" disabled size="1px" value="+91">
+                <input type="tel" name="Mobile" id="num"><br><br>
+                <label for="gender">Gender:</label>
+                <input type="radio" name="Gender" id="gender">
+                <label for="gender">Male</label>
+                <input type="radio" name="Gender" id="gender">
+                <label for="gender">Female</label>
+                <input type="radio" name="Gender" id="gender">
+                <label for="gender">Others</label><br><br>
+                <label for="favchar">Fav Character:</label>
+                <input type="checkbox" name="Fav character" id="favchar">
+                <label for="favchar">Bahubali</label>
+                <input type="checkbox" name="Fav character" id="favchar">
+                <label for="favchar">BhallalaDeva</label>
+                <input type="checkbox" name="Fav character" id="favchar">
+                <label for="favchar">Shivagami</label>
+                <input type="checkbox" name="Fav character" id="favchar">
+                <label for="favchar">Devasena</label>
+                <input type="checkbox" name="Fav character" id="favchar">
+                <label for="favchar">Avanthika</label><br><br>
+                <label for="state">State</label>
+                <select name="state" id="st">
+                    <option value="Andhrapradesh">Andhrapradesh</option>
+                    <option value="Telangana">Telangana</option>
+                    <option value="Tamilnadu">Tamilnadu</option>
+                    <option value="Kerala">Kerala</option>
+                    <option value="Odissa">Odissa</option>
+                </select><br><br>
+                <label for="ans">Your answer:</label><br>
+                <textarea name="answer" id="ans" style="width: 200px; height: 80px;"></textarea><br>
+                <input type="submit" name="submit" id="submit">
             </form>
         </div>
-    </div><hr>
+    </div>
+    <hr>
     <div style="background-color: yellow; color: black; text-align: center; margin-left:70px; margin-right:70px;">
-     <h1>...... <i class="fa-brands fa-html5"></i> HTML IS USED TO BUILD THE STATIC STRUCTURE OF WEBPAGE <i class="fa-brands fa-html5"></i> ......</h1>
-     </div>
+        <h1>...... <i class="fa-brands fa-html5"></i> HTML IS USED TO BUILD THE STATIC STRUCTURE OF WEBPAGE <i
+                class="fa-brands fa-html5"></i> ......</h1>
+    </div>
 </body>
+
 </html>
